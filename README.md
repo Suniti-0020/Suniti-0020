@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suniti</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p align="center"> 
-<a href="https://www.linkedin.com/in/suniti0020/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="3%"></a>
-<a href="https://twitter.com/Suniti_Panwar/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="3%"></a>
+<a href="https://www.linkedin.com/in/suniti0020/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40px"></a>
+<a href="https://twitter.com/Suniti_Panwar/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504947.png" alt="Twitter" width="40px"></a>
+<a href="https://leetcode.com/suniti_0020/" target="blank"><img src="https://dhyey6602.github.io/assets/lc-icon.png" alt="LeetCode" width="35px" ></a>
+          
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suniti-0020&label=Profile%20views&color=0e75b6&style=flat" alt="suniti-0020" /> </p>
 

@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-0kkmSgTJg5Qs8QyxI-m5Hghj8LSuPtU/view?pli=1" target="_blank" style="color: #FFFF00;"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gApljDo5SmcWXkz2YXOR11jMNdkqpoWW/view?usp=drivesdk" target="_blank" style="color: #FFFF00;"> Resume </a>
 
 ## 👨🏻‍🏫 What are my current activities?
 

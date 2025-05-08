@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1hh4dPOaAyx6WWV06Kv1LIPKA4TlVFkN2/view?usp=drivesdk](https://drive.google.com/file/d/1EOMyadIM2Zw9yzd-z4uyWIhS-Mmej9bY/view?usp=sharing)" target="_blank" style="color: #FFFF00;"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hh4dPOaAyx6WWV06Kv1LIPKA4TlVFkN2/view?usp=drivesdk](https://drive.google.com/file/d/1EOMyadIM2Zw9yzd-z4uyWIhS-Mmej9bY/view?usp=sharing" target="_blank" style="color: #FFFF00;"> Resume </a>
 
 ## 👨🏻‍🏫 What are my current activities?
 
